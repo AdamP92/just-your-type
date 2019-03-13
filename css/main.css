@@ -1,0 +1,55 @@
+.large-1 {
+  font-family: 'Bowlby One', cursive;
+  text-align: center;
+  position: relative;
+  color: #deb887;
+}
+
+body {
+  background-color: #b22222;
+}
+
+.for {
+  position:absolute;
+  left: 0.23em;
+  top:.1em;
+}
+
+.death {
+  position: absolute;
+  top: 1.35em;
+  left: 0.1em;
+}
+
+.and {
+  position: absolute;
+  left: 0.15em;
+  top: 1.48em;
+}
+
+.glory {
+  position: absolute;
+  left: 0.04em;
+  top: 3.33em;
+}
+
+.small-1 {
+  font-family: 'Lora', serif;
+  color: black;
+}
+
+.for-2 {
+  position: absolute;
+  top: 2.1em;
+  left: 4.22em;
+}
+
+.rohan {
+  position: absolute;
+  top: 4.88em;
+  left: 3.5em;
+}
+
+@media only screen and (min-width: 25em) {
+
+}
