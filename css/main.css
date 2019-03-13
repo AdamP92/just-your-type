@@ -47,7 +47,26 @@ body {
 .rohan {
   position: absolute;
   top: 4.88em;
+  left: 4em;
+}
+
+.for-your {
+  position: absolute;
+  top: 8em;
   left: 3.5em;
+}
+
+.part-2 {
+  position: absolute;
+  top: 30em;
+}
+
+.large-2 {
+  font-family: 'Bowlby One', cursive;
+}
+
+.small-2 {
+  font-family: 'Lora', serif;
 }
 
 @media only screen and (min-width: 25em) {
