@@ -1,12 +1,13 @@
+
+body {
+  background-color: firebrick;
+}
+
 .large-1 {
   font-family: "Bowlby One", cursive;
   text-align: center;
   position: relative;
   color: burlywood;
-}
-
-body {
-  background-color: firebrick;
 }
 
 .for {
