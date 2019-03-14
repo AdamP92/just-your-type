@@ -88,13 +88,13 @@ body {
   left: 2em;
   background-color: gold;
   color: gold;
-  border-radius: 200px;
-  padding-bottom: -5em;
+  border-radius: 500px;
   z-index: -10;
 }
 
 .sun-p {
- padding-left: 0.5em;
+ padding-left: 0.8em;
+ padding-bottom: 0.5em;
 }
 
 .look {
