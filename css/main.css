@@ -70,7 +70,6 @@ body {
 
 .rising {
   font-family: 'Lora', serif;
-  line-height: 1.1;
   text-align: left;
   color: gold;
   position: absolute;
@@ -101,12 +100,10 @@ body {
 .look {
   font-family: 'Lora', serif;
   text-align: center;
-  line-height: 1.1;
 }
 
 .dawn {
   font-family: 'Bowlby One', cursive;
-  line-height: 0.9;
   text-align: center;
 }
 
