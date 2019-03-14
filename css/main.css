@@ -11,25 +11,25 @@ body {
 
 .for {
   position: absolute;
-  left: 0.23em;
+  left: .23em;
   top:.1em;
 }
 
 .death {
   position: absolute;
   top: 1.35em;
-  left: 0.1em;
+  left: .1em;
 }
 
 .and {
   position: absolute;
-  left: 0.15em;
+  left: .15em;
   top: 1.48em;
 }
 
 .glory {
   position: absolute;
-  left: 0.04em;
+  left: .04em;
   top: 3.33em;
 }
 
@@ -74,7 +74,7 @@ body {
   color: gold;
   position: absolute;
   top: -4em;
-  left: 0.5em;
+  left: .5em;
 }
 
 .part-2 {
@@ -93,8 +93,8 @@ body {
 }
 
 .sun-p {
- padding-left: 0.8em;
- padding-bottom: 0.5em;
+ padding-left: .8em;
+ padding-bottom: .5em;
 }
 
 .look {
